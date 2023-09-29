@@ -1,0 +1,28 @@
+
+
+a img{
+    width: 100%;
+    height: 700px;
+    object-fit:contain;
+}
+.info{
+    background-color: orange;
+    padding: 20px;
+    margin: 10px;
+    font-size: 30px;
+    color: white;
+    text-transform: uppercase;
+}
+.info:hover{
+    background-color: white;
+    color: black;
+}
+.info:hover{
+    color: red;
+    font-weight: bold;
+}
+
+.info:hover span{
+    color: orange;
+    font-size: 45px;
+}
